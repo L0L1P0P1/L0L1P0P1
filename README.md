@@ -1,7 +1,7 @@
 
 # Behrad Badeli
-I am Behrad Badeli, a Computer Science Major with a keen interest in Data Analysis and Data Science. Passionate about Linux and programming, I bring a diverse skill set to the table. 
-
+I am Behrad Badeli, a Computer Science Major with a keen interest in Data Analysis and Data Science. Passionate about Linux and programming, I bring a diverse skill set to the table. <br>
+ 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
