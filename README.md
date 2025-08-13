@@ -24,5 +24,7 @@ I am Behrad Badeli, a Computer Science Major with a keen interest in Data Analys
 </p>
 
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0L1P0P1&show_icons=true&theme=gruvbox&bg_color=00000000&layout=donut)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=L0L1P0P1&show_icons=true&theme=gruvbox&bg_color=00000000)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0L1P0P1&show_icons=true&theme=gruvbox&bg_color=00000000&layout=donut" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=L0L1P0P1&show_icons=true&theme=gruvbox&bg_color=00000000" height="180">
+</p>
