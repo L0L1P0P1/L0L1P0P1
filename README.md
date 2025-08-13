@@ -16,13 +16,14 @@ I am Behrad Badeli, a Computer Science Major with a keen interest in Data Analys
 
 <br><br>
  
+
+## Skills and Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0L1P0P1&show_icons=true&theme=gruvbox&bg_color=00000000&layout=donut" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=L0L1P0P1&show_icons=true&theme=gruvbox&bg_color=00000000" height="180">
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,nix,cpp,md,linux,neovim,sklearn,obsidian,git,rust,godot" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0L1P0P1&show_icons=true&theme=gruvbox&bg_color=00000000&layout=donut" height="180">
-  <img src="https://github-readme-stats.vercel.app/api?username=L0L1P0P1&show_icons=true&theme=gruvbox&bg_color=00000000" height="180">
 </p>
