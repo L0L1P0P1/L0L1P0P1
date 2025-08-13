@@ -1,6 +1,6 @@
 
 # Behrad Badeli
-I am Behrad Badeli, a Computer Science Major with a keen interest in Data Analysis and Data Science. Passionate about Linux and Mathematics.
+A Computer Science Major with a keen interest in Data Analysis and Data Science. Passionate about Linux and Mathematics.
 
 <p align="center">
   <a href="https://www.kaggle.com/behradbadeli">
