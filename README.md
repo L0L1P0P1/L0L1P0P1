@@ -6,7 +6,7 @@ I am Behrad Badeli, a Computer Science Major with a keen interest in Data Analys
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nix,cpp,md,linux,neovim,sklearn,obsidian,git,godot" />
+    <img src="https://skillicons.dev/icons?i=python,nix,cpp,md,linux,neovim,sklearn,obsidian,git,rust,godot" />
   </a>
 </p>
 
