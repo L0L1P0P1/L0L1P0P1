@@ -1,4 +1,4 @@
-```markdown
+
 # Behrad Badeli
 
 ## 🚀 About Me
@@ -28,10 +28,10 @@ I am Behrad Badeli, a Computer Science Major with a keen interest in Data Analys
 - Email: behrad.b@example.com
 
 ## 🌐 Learn more about me:
-```
 
 
-```js
+
+
 const behrad = {
   pronouns: "He" | "Him",
   code: ["Python", "Nix", "Rust"],
@@ -48,7 +48,3 @@ const behrad = {
   currentFocus: "Exploring new data analysis frameworks",
   funFact: "Social distancing may be new, but I've been 'socially distancing' bugs from code for years."
 };
-```
-
-Feel free to explore my repositories and get in touch for any collaboration opportunities! 😉
-```
