@@ -5,9 +5,7 @@ I am Behrad Badeli, a Computer Science Major with a keen interest in Data Analys
 ## 🛠️ Skills
 - Python
 - Data Science and Data Analysis
-- Niximg src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cs-astronaut&theme=tokyonight&exclude=jupyter%20Notebook" />
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cs-astronaut&theme=tokyonight" /
+- Nix
 - Software Development
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0L1P0P1&show_icons=true&theme=transparent)
