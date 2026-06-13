@@ -24,6 +24,6 @@ A Computer Science Major with a keen interest in Data Analysis and Data Science.
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nix,cpp,md,linux,neovim,sklearn,obsidian,git,rust,godot" />
+    <img src="https://skillicons.dev/icons?i=python,go,postgresql,nix,cpp,md,linux,neovim,sklearn,obsidian,git,rust,godot" />
   </a>
 </p>
