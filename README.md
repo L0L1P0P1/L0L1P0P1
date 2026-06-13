@@ -1,6 +1,6 @@
 
 # Behrad Badeli
-2nd year CS student. I work across the stack — backend (Go, Postgres), 
+2nd year CS student. I work across the stack - backend (Go, Postgres), 
 systems (C++), and data analysis & ML. Strong math background. 
 nixpkgs contributor. Linux poweruser. Currently picking up Rust.
 I build things for fun.
