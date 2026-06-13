@@ -1,8 +1,8 @@
 
 # Behrad Badeli
-2nd year CS student. I work across the stack - backend (Go, Postgres), 
-systems (C++), and data analysis & ML. Strong math background. 
-nixpkgs contributor. Linux poweruser. Currently picking up Rust.
+2nd year CS student. Backend (Go, Postgres), systems (C++), data analysis & ML. 
+Math-oriented — linear algebra, abstract algebra, optimization theory. 
+NixOS packager. Linux poweruser. Currently picking up Rust.
 I build things for fun.
 
 <p align="center">
