@@ -1,6 +1,9 @@
 
 # Behrad Badeli
-A Computer Science Major with a keen interest in Data Analysis and Data Science. Passionate about Linux and Mathematics.
+2nd year CS student. I work across the stack — backend (Go, Postgres), 
+systems (C++), and data analysis & ML. Strong math background. 
+nixpkgs contributor. Linux poweruser. Currently picking up Rust.
+I build things for fun.
 
 <p align="center">
   <a href="https://www.kaggle.com/behradbadeli">
