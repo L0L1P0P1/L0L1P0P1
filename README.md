@@ -12,7 +12,7 @@ I build things for fun.
   <a href="https://www.linkedin.com/in/behradbadeli/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://huggingface.co/YOUR_USERNAME](https://huggingface.co/L0L1P0P">
+  <a href="https://huggingface.co/L0L1P0P">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
   </a>
 </p>
